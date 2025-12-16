@@ -1,0 +1,18 @@
+/* Write your code here: */
+h1,h2{
+    color: blueviolet;
+}
+div>p{
+    color: firebrick;
+}
+div li{
+    color:blue
+}
+li.done{
+    color: aquamarine;
+}
+ul p.done{
+    color: pink;
+}                               
+
+
